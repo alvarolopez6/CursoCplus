@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+# Archivos comunes de C++
+*.o
+*.obj
+*.gch
+*.out
+*.exe
+*.dll
+*.so
+*.a
+*.log
+*.dSYM/
