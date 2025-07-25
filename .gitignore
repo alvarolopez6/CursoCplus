@@ -219,3 +219,6 @@ __marimo__/
 *.a
 *.log
 *.dSYM/
+
+
+*.idea/
